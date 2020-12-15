@@ -13,8 +13,6 @@ Python Flask App + Ofelia Service + Dockerization
 
 4. Set docker-compose.yml with your setup
 
-5. Edit build.sh with your values in the sections
-
 ##### Run Python App  
 
 1. Clone this repository
@@ -23,7 +21,7 @@ Python Flask App + Ofelia Service + Dockerization
         $ git clone https://github.com/whernandez/python_flask_with_ofelia.git
     ```
 
-2. Copy .env.sample to .env
+2. Copy .env.sample to .env and set the app values
     
 3. Start the build
     ```bash
